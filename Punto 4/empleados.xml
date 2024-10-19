@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE empleados SYSTEM "empleados.dtd">
+<empleados>
+    <empleado>
+        <id>1</id>
+        <nombre>Juan Perez</nombre>
+        <edad>30</edad>
+        <departamento>Recursos Humanos</departamento>
+    </empleado>
+    <empleado>
+        <id>2</id>
+        <nombre>María Gómez</nombre>
+        <edad>27</edad>
+        <departamento>Contabilidad</departamento>
+    </empleado>
+</empleados>

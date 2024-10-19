@@ -1,0 +1,10 @@
+{
+    "empleados": [
+        {
+            "nombre": "Juan Perez",
+            "edad": 30,
+            "departamento": "Recursos Humanos",
+            "salario": 3000
+        }
+    ]
+}

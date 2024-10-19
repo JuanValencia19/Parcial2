@@ -1,0 +1,39 @@
+{
+    "productos": [
+        {
+            "id": "P001",
+            "nombre": "Laptop",
+            "descripcion": "Laptop gaming",
+            "precio": 1500.0,
+            "stock": 20
+        },
+        {
+            "id": "P002",
+            "nombre": "Smartphone",
+            "descripcion": "Tel\u00e9fono inteligente",
+            "precio": 600.0,
+            "stock": 25
+        },
+        {
+            "id": "P003",
+            "nombre": "Teclado",
+            "descripcion": "Teclado mec\u00e1nico",
+            "precio": 80.0,
+            "stock": 50
+        },
+        {
+            "id": "P004",
+            "nombre": "Monitor",
+            "descripcion": "Monitor 4K",
+            "precio": 300.0,
+            "stock": 15
+        },
+        {
+            "id": "P005",
+            "nombre": "Mouse",
+            "descripcion": "Mouse inal\u00e1mbrico",
+            "precio": 40.0,
+            "stock": 100
+        }
+    ]
+}

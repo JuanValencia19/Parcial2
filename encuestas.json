@@ -1,0 +1,19 @@
+{
+    "encuestas": [
+        {
+            "ciudad": "Bogot\u00e1",
+            "personas_encuestadas": 150,
+            "transporte_mas_utilizado": "TransMilenio"
+        },
+        {
+            "ciudad": "Medell\u00edn",
+            "personas_encuestadas": 120,
+            "transporte_mas_utilizado": "Metro"
+        },
+        {
+            "ciudad": "Cali",
+            "personas_encuestadas": 90,
+            "transporte_mas_utilizado": "Bus"
+        }
+    ]
+}

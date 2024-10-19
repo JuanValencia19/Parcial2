@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleados xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="empleados.xsd">
+    <empleado>
+        <id>1</id>
+        <nombre>Juan Perez</nombre>
+        <edad>30</edad>
+        <departamento>Recursos Humanos</departamento>
+    </empleado>
+    <empleado>
+        <id>2</id>
+        <nombre>María Gómez</nombre>
+        <edad>27</edad>
+        <departamento>Contabilidad</departamento>
+    </empleado>
+</empleados>
